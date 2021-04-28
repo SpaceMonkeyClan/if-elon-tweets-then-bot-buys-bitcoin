@@ -1,6 +1,6 @@
 # If Elon Tweets Then Bot Buys Dogecoin
 
-DESCRIPTION
+## DESCRIPTION
 
 This bot is designed to buy Dogecoin every time Elon musk tweets about Dogecoin with the following parameters:
 
@@ -10,7 +10,7 @@ The Dogecoin bot will not place another trade if there is already an active trad
 
 The bot uses the Tweepy API and a Twitter developer account that you will need access to, as well as a MetaTrader 5 account.
 
-USE CASES
+## USE CASES
 
 This particular project is mainly built for fun and the novelty of it. it has not been tested on a live account and there isn't any details analysis to suggest this might work. 
 If you do test this, please share the results!
