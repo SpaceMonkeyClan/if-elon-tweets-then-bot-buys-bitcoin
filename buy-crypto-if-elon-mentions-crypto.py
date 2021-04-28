@@ -51,8 +51,8 @@ else:
     equity = float(account_info[10])
 
 #crypto sign and keywords
-CRYPTO='BTCUSD'
-keywords =['Bitcoin', 'bitcoin', 'BITCOIN', 'btc', 'BTC']
+CRYPTO='DOGEUSD'
+keywords =['Dogecoin', 'dogecoin', 'DOGECOIN', 'DOGE', 'doge']
 
 
 #Get Technoking's latest tweet
