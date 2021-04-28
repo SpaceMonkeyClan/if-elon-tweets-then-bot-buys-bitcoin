@@ -14,4 +14,4 @@ The bot uses the Tweepy API and a Twitter developer account that you will need a
 
 This particular project is mainly built for fun and the novelty of it. It has just been developed, so has yet to be tested on a live account. Thus, there isn't any details analysis to suggest return rate profits as of date.
 
-Want to collaborate? Get in touch.
+Keeping script open-source. If you'd like to collaborate, get in touch.
