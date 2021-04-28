@@ -1,4 +1,4 @@
-# if-elon-tweets-then-bot-buys-bitcoin
+# If Elon Tweets Then Bot Buys Bitcoin
 
 DESCRIPTION
 
