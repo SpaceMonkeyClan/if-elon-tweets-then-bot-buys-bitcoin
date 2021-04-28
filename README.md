@@ -12,7 +12,6 @@ The bot uses the Tweepy API and a Twitter developer account that you will need a
 
 ## USE CASES
 
-This particular project is mainly built for fun and the novelty of it. it has not been tested on a live account and there isn't any details analysis to suggest this might work. 
-If you do test this, please share the results!
+This particular project is mainly built for fun and the novelty of it. It has just been developed, so has yet to be tested on a live account. Thus, there isn't any details analysis to suggest return rate profits as of date.
 
 Want to collaborate? Get in touch.
